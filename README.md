@@ -83,6 +83,6 @@ https://github.com/leandrororiz/projeto_site_rest_rendesvous.git
 
 Autores
 Desenvolvido por: 
-Leandro Roriz Fidalgo
-Luis Andre Moura
+Leandro Roriz Fidalgo,
+Luis Andre Moura,
 Emanuel Moreira Dos Anjos
